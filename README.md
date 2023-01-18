@@ -3,7 +3,7 @@
 ### 1. Install debian 
 Update and Upgrade repository
 ```bash
-  pkg update & upgrade
+  pkg update && upgrade
 ```
 
 Install proot-distro
@@ -20,7 +20,7 @@ Login debian
 ```
 ### 2. Install python 
 ```bash
-  apt update & upgrade
+  apt update && upgrade
 ```
 ```bash
   apt install python3.9 python3-pip
