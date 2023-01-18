@@ -36,7 +36,7 @@ Login debian
   cd bot
 ```
 ```bash
-  pip install -r requirements.txt
+  pip3 install -r requirements.txt
 ```
 ### 4. Running script
 ```bash
