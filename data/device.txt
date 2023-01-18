@@ -1,0 +1,12 @@
+iOS:16.2:Apple:iPhone 7
+iOS:16.2:Apple:iPhone 7 Plus
+iOS:16.2:Apple:iPhone 8
+iOS:16.2:Apple:iPhone 8 Plus
+iOS:16.2:Apple:iPhone X
+iOS:16.2:Apple:iPhone XS
+iOS:16.2:Apple:iPhone XR
+iOS:16.2:Apple:iPhone 11
+iOS:16.2:Apple:iPhone 11 Pro
+iOS:16.2:Apple:iPhone 12
+iOS:16.2:Apple:iPhone 12 Pro
+iOS:16.2:Apple:iPhone 13
