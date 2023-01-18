@@ -40,7 +40,7 @@ Login debian
 ```
 ### 4. Running script
 ```bash
-  python main.py
+  python3 main.py
 ```
 
 ## Authors
