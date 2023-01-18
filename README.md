@@ -23,7 +23,7 @@ Login debian
   apt update & upgrade
 ```
 ```bash
-  apt install python3 python3-pip
+  apt install python3.9 python3-pip
 ```
 ### 3. Git clone
 ```bash
