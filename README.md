@@ -1,3 +1,3 @@
-# Termux
+## Termux
 
 apt update & upgrade
