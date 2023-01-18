@@ -1,1 +1,7 @@
 
+rich
+pyfiglet
+pycryptodome
+requests
+python-dotenv
+adbutils
