@@ -42,6 +42,10 @@ Login debian
 ```bash
   python3 main.py
 ```
+## Deeplink apk
+
+- [Click to download](http://tenguproject.com/assets/deeplink.apk)
+
 ## Screenshots
 
 ![App Screenshot](http://tenguproject.com/assets/gojek.png)
