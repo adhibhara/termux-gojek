@@ -43,7 +43,7 @@ Login debian
   python3 main.py
 ```
 ## Deeplink apk
-
+Before installing you have to delete the original Gojek application
 - [Click to download](http://tenguproject.com/assets/deeplink.apk)
 
 ## Screenshots
