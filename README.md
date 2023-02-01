@@ -42,6 +42,9 @@ Login debian
 ```bash
   python3 main.py
 ```
+## Screenshots
+
+![App Screenshot](http://tenguproject.com/assets/gojek.png)
 
 ## Authors
 
