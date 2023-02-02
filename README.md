@@ -30,7 +30,7 @@ Login debian
   apt install git
 ```
 ```bash
-  git clone https://github.com/tenguproject/bot.git
+  git clone https://github.com/tenguproject/termux-gojek.git
 ```
 ```bash
   cd bot
